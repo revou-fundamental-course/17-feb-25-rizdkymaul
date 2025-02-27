@@ -29,3 +29,6 @@ Iki Alam Travel adalah pengalaman wisata yang lebih dari sekadar jalan-jalan. Ka
 ● Tema CSS Custom yang mengangkat warna-warna alami khas Nusantara.
 
 ● Desain Responsif untuk HP atau laptop.
+
+Intip Live Demo nya 
+https://revou-fundamental-course.github.io/17-feb-25-rizdkymaul/
